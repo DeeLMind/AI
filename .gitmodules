@@ -1,0 +1,24 @@
+[submodule "secs/ai-security-training-lab"]
+	path = secs/ai-security-training-lab
+	url = https://github.com/citizenjosh/ai-security-training-lab
+[submodule "secs/cai"]
+	path = secs/cai
+	url = https://github.com/aliasrobotics/cai
+[submodule "secs/AdvBox"]
+	path = secs/AdvBox
+	url = https://github.com/advboxes/AdvBox
+[submodule "secs/secml"]
+	path = secs/secml
+	url = https://github.com/pralab/secml
+[submodule "secs/adversarial-robustness-toolbox"]
+	path = secs/adversarial-robustness-toolbox
+	url = https://github.com/Trusted-AI/adversarial-robustness-toolbox.git
+[submodule "secs/Awesome-LLM4Security"]
+	path = secs/Awesome-LLM4Security
+	url = https://github.com/liu673/Awesome-LLM4Security
+[submodule "secs/guardrails"]
+	path = secs/guardrails
+	url = https://github.com/guardrails-ai/guardrails
+[submodule "secs/TextAttack"]
+	path = secs/TextAttack
+	url = https://github.com/QData/TextAttack
