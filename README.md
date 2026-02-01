@@ -22,10 +22,6 @@
 ---
 
 ### LLM / Prompt 安全 / 红队测试
-- **garak (NVIDIA)**  
-  https://github.com/NVIDIA/garak  
-  > LLM 漏洞扫描与安全评估（Prompt Injection、越狱等）
-
 - **CAI – Adversarial ML Framework**  
   https://github.com/aliasrobotics/cai  
   > 自动化对抗测试、红队流程、模型鲁棒性评估
@@ -43,8 +39,3 @@
 - **Awesome-LLM4Security**  
   https://github.com/liu673/Awesome-LLM4Security  
   > LLM 安全研究资源合集（工具、论文、数据集）
-
-- **genai-security（社区整理）**  
-  https://github.com/owasp/www-project-genai-security  
-  > 生成式 AI 安全指南与最佳实践（OWASP 项目）
-
